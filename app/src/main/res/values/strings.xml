@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DroidCamp Local-Storage</string>
+
+    <string name="text_user_details">User Details</string>
+    <string name="text_logout">Logout</string>
+    <string name="text_password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_instruction">Don\'t have an account?</string>
+    <string name="text_email">Email</string>
+    <string name="text_sign_up">Sign Up</string>
+    <string name="text_school">School</string>
+    <string name="text_name">Name</string>
+    <string name="text_create_account">Create an account</string>
+    <string name="text_instruction2">Already have an account?</string>
+    <string name="desc_school">Image showing school icon</string>
+    <string name="desc_email">Image showing email icon</string>
+    <string name="desc_name">Image showing person icon</string>
+    <string name="text_password_helper">Password should be more than 5 characters</string>
+</resources>
