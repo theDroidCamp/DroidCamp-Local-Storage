@@ -29,9 +29,9 @@ It is written 100% in Kotlin.🙂
 ## Screenshots
 
 <ul>
-  <img src="" width="40%" alt="Screen1" hspace="15">
-  <img src="" width="40%" alt="Screen2" hspace="15">
-  <img src="" width="40%" alt="Screen3" hspace="15">
+  <img src="https://github.com/theDroidCamp/DroidCamp-Local-Storage/blob/master/arts/Screenshot_20201130-121016_DroidCamp%20Local-Storage.jpg" width="40%" alt="Login Screen" hspace="15">
+  <img src="https://github.com/theDroidCamp/DroidCamp-Local-Storage/blob/master/arts/Screenshot_20201130-121027_DroidCamp%20Local-Storage.jpg" width="40%" alt="Sign up Screen" hspace="15">
+  <img src="https://github.com/theDroidCamp/DroidCamp-Local-Storage/blob/master/arts/Screenshot_20201130-121246_DroidCamp%20Local-Storage.jpg" width="40%" alt="User details Screen" hspace="15">
 </ul>
 
 ## Learning Resources
