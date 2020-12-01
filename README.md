@@ -12,6 +12,7 @@ It is written 100% in Kotlin.🙂
 * [Shared Preferences](https://developer.android.com/training/data-storage/shared-preferences)
 * [Android Jetpack Navigation components](https://developer.android.com/guide/navigation/navigation-getting-started)
 * [Material Design](https://material.io/develop/android/docs/getting-started)
+* [ViewBinding](https://developer.android.com/topic/libraries/view-binding)
 
 ## Requirements
 
@@ -41,6 +42,7 @@ It is written 100% in Kotlin.🙂
 * [Material Design Components 101](https://codelabs.developers.google.com/codelabs/mdc-101-kotlin#0)
 * [Material Design Components 102](https://codelabs.developers.google.com/codelabs/mdc-102-kotlin#0)
 * [Material Design Components 103](https://codelabs.developers.google.com/codelabs/mdc-103-kotlin#0)
+* [Replace findViewById with view binding](https://www.youtube.com/watch?v=W7uujFrljW0)
 
 ## Contribution
 
